@@ -1,0 +1,36 @@
+/* styling for artist.html */
+#artist-container {
+    margin-left: 25vw;
+    margin-right: 25vw;
+}
+
+#img-container {
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+#header-container {
+    width: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#profileImg {
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+#artistName {
+    text-align: center;
+    background-color: teal;
+    color: whitesmoke;
+}
+
+#artistTitle {
+    text-align: center;
+}
+
+#aboutArtist {
+    text-align: center;
+}

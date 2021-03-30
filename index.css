@@ -1,0 +1,95 @@
+/* styling for index.html */
+#directoryDiv {
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 15px;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+}
+
+#directoryHeader {
+    text-align: center;
+}
+
+#toggleShowAdd {
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 15px;
+    width: 10%;
+    border-style: none;
+    background-color: #dee1e6;
+}
+
+#artistName {
+    margin-bottom: 2px;
+    margin-left: 15%; 
+    width: 70%;
+    text-align: center;
+}
+
+#aboutArtist {
+    margin-bottom: 2px;
+    margin-left: 15%; 
+    width: 70%;
+    text-align: center;
+
+}
+
+#artistNumber {
+    margin-bottom: 2px;
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+
+}
+
+#add {
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+    width: 20%;
+    border-style: none;
+    background-color: #dee1e6;
+    ;
+}
+
+.artist {
+    margin-left: 25%;
+    width: 50%;
+    border-style: solid;
+    border-width: thin;
+    border-color: lightgray;
+}
+
+.img-container {
+    float: left;
+}
+.p-container {
+    width: 100%;
+}
+
+.name {
+    font-size: x-large;
+    font: bold;
+    margin: 0;
+}
+
+.image {
+    margin: 5px;
+}
+
+.about {
+    font-size: small;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.cf:after {
+    content: '';
+    display: block;
+    clear: both;
+}
